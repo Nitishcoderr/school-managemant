@@ -107,3 +107,12 @@
     color: gray !important;
     margin-bottom: 5px;
   }
+  .rbc-day-slot .rbc-event-label{
+    font-size: 8.5px !important;
+  }
+
+  @media only screen and (max-width: 1200px) {
+    .rbc-day-slot .rbc-event-label{
+      font-size: 10px !important;
+    }
+  }
